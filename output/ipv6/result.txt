@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-16 06:45:23,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-07-16 18:47:42,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -108,7 +108,6 @@ CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
-西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 
@@ -249,8 +248,6 @@ CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f85
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
-海绵宝宝,https://live.metshop.top/douyu/3949681
-中华小当家,https://live.metshop.top/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
@@ -263,7 +260,6 @@ CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3
 
 🏛经典剧场,#genre#
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
-天龙八部,https://live.metshop.top/huya/23903123
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 封神榜,http://www.clmy.cc:35455/yy/1353426319
