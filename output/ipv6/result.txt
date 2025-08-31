@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 18:42:25,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
+2025-09-01 06:42:14,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
 
 📺央视频道,#genre#
 CCTV-1,http://www.freetv.top/migu/608807420.m3u8?migutoken=491f039071b1e5ca7ea22dab208a3373abd0aa38187ac74446778154f03126d09cf16f03bab30bbbe6b3654715b39584417cebbd010b1b65144b4d683dc814c330efffb70a09c7630ddbb49120
@@ -16,8 +16,8 @@ CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/play
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
-CCTV-6,http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c
 CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1
+CCTV-6,http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c
 CCTV-7,http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=5efea15b5115b2be0e9c11527601ab541c646da6310420ce788fafd0cbc53baa18194290df19e900a089f43300a784605577054b709659403fb3de1eaa69137ce76e0233b0f007ee744300c50d
@@ -159,8 +159,8 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 
 ☘️湖北频道,#genre#
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️安徽频道,#genre#
 
@@ -192,6 +192,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
+漫画解说,https://mursor.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
 
